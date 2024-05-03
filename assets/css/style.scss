@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+h1 {
+    display: none;
+}
+h1[id] {
+    display: block;
+    color: #03aed2;
+}
+div.footer {
+    display: none;
+}
