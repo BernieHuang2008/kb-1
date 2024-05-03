@@ -1,3 +1,5 @@
+# 逻辑门：与门
+
 ![res/img/AND-gate-1.webp](res/img/AND-gate-1.webp)
 
 这就是一个非常简化的与门。
@@ -12,9 +14,4 @@
 
 于是我们可以发现这其实是个与门。
 
-
-> 编辑于 2019-06-03 08:01 ​赞同 140​
-> 作者：飞柯
-> 链接：https://www.zhihu.com/question/31228866/answer/51139084
-> 来源：知乎
-> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> https://www.zhihu.com/question/31228866/answer/5113908
