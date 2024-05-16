@@ -12,3 +12,9 @@ h1[id] {
 div.footer {
     display: none;
 }
+
+@media print {
+    body {
+        zoom: 0.5;
+    }
+}
