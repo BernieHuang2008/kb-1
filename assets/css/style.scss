@@ -2,8 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-    font-family: "宋体", "Simsung", "STSong", sans-serif;
+
+p {
+    font-family: 宋体, SimSun, STSong, sans-serif;
+}
+
+p code {
+    font-family: "Jetbrains Mono", Consolas, "Space Mono", monospace;
 }
 
 h1 {
