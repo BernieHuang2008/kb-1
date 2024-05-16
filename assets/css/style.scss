@@ -2,13 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+    font-family: "宋体", "Simsung", "STSong", sans-serif;
+}
+
 h1 {
     display: none;
 }
+
 h1[id] {
     display: block;
     color: #03aed2;
 }
+
 div.footer {
     display: none;
 }
