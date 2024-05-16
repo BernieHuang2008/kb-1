@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 p {
-    font-family: 宋体, SimSun, STSong, sans-serif;
+    font-family: "宋体", SimSun, STSong, sans-serif;
 }
 
 p code {
@@ -27,5 +27,9 @@ div.footer {
 @media print {
     body {
         zoom: 0.75;
+    }
+
+    h1 {
+        margin-top: 0;
     }
 }
