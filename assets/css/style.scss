@@ -17,6 +17,7 @@ h1 {
 
 h1[id] {
     display: block;
+    margin-top: 0;
     color: #03aed2;
 }
 
@@ -27,9 +28,5 @@ div.footer {
 @media print {
     body {
         zoom: 0.75;
-    }
-
-    h1 {
-        margin-top: 0;
     }
 }
