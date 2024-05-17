@@ -28,5 +28,7 @@ div.footer {
 @media print {
     body {
         zoom: 0.75;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
     }
 }
