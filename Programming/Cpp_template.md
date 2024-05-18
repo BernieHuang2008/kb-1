@@ -15,10 +15,12 @@ C+＋模板通过宏来进行处理的，相当于复制和粘贴了类模板的
 比如说上述例子中就有可能生成了如下两个类：
 ```cpp
 class map_int_char {
+    char get(int);
     ...
 }
 
 class map_int_bool {
+    bool get(int);
     ...
 }
 ```
